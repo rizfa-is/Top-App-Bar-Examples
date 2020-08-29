@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Top-App-Bar-Examples</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="content_description_favorite">content_description_favorite</string>
+    <string name="content_description_search">content_description_search</string>
+    <string name="more">More</string>
+    <string name="content_description_more">content_description_more</string>
+    <string name="top_app_bar_example">Top App Bar Example</string>
+    <string name="content_description_media">Content Description Media</string>
+</resources>
